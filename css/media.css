@@ -1,0 +1,38 @@
+@media (max-width: 800px) {
+    .header-bottom-block__title {
+        font-size: 35px;
+        text-align: center;
+    }
+    .header-bottom-block__button {
+        width: 360px;
+    }
+    .header-bottom-block_github__buttons {
+        width: 360px;
+    }
+    .tag-title {
+        font-size: 28px;
+    }
+    .main-top {
+        height: 1290px;
+    }
+    .right-area {
+        margin-left: 0;
+    }
+    .code-line {
+        margin-left: 0;
+        height: 0;
+    }
+    .code-img {
+        margin-left: 0;
+        width: 249px;
+    }
+    .master {
+        margin-top: 550px;
+    }
+    .middle-line {
+        width: 0;
+    }
+    .main-bottom-line {
+        width: 0;
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "homework-4-1",
+  "version": "1.0.0",
+  "description": "my homework 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gh-frontend-js-9/harenko_hw_4.git"
+  },
+  "author": "SPEKTR 001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gh-frontend-js-9/harenko_hw_4/issues"
+  },
+  "homepage": "https://github.com/gh-frontend-js-9/harenko_hw_4#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
